@@ -12,4 +12,4 @@ You may want your browser to be imageless for one or more reasons below:
 - Speed: Maybe you just want the internet to run faster.
 
 ## How?
-I am slowly collecting tutorials on how to do this. At this time, I will just have a table with links to show how to disable images on various platforms and websites.
+I am slowly collecting tutorials on how to do this. At this time, I will just have a table with links to show how to disable images on various platforms and websites. Please check them out in [Resources](https://github.com/MacroGrove/Imageless/blob/main/Resources.md).
