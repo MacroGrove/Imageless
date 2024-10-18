@@ -8,3 +8,7 @@
 |-----|-----------|
 |[Proton Mail](https://proton.me/support/protonmail-images)|This shows you how to load embeded and remote images, but you can hide them as well.
 
+|Other|Description|
+|-----|-----------|
+|[LinkedIn](https://www.linkedin.com/help/linkedin/answer/a545557/settings-for-profile-photo-visibility)|You can disable profile pictures.
+
